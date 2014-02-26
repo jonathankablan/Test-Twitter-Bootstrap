@@ -19,6 +19,6 @@ Final Result
 
 ![Résultat Final](http://teachersdunet.hostei.com/test-tb/img/social_network.png)
 
-**You can find demo of the final application at the link below**
+**You can find the final result at the link below**
 
-[Application Demo](http://teachersdunet.hostei.com/test-tb)
+[Final Result](http://teachersdunet.hostei.com/test-tb)
