@@ -14,8 +14,11 @@ Utilisation du Framework CSS Twitter Bootstrap pour simuler la page d'un profil 
 J'avais juste voulu tester un petit peu l'utilisation de ce Framework.
 
 
-Demo
+Final Result
 ========================
-**You can find the final result at the link below**
+
+![Résultat Final](http://teachersdunet.hostei.com/test-tb/img/social_network.png)
+
+**You can find demo of the final application at the link below**
 
 [Application Demo](http://teachersdunet.hostei.com/test-tb)
